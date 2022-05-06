@@ -1,6 +1,8 @@
 base-blog-em/node_modules
 base-infinite-swapi/node_modules
-base-lazy-days/node_modules
+base-lazy-days/client/node_modules
+base-lazy-days/server/node_modules
+base-lazy-days/shared/node_modules
 completed-apps/node_modules
 section-start-code/node_modules
 _eslintrc.json
